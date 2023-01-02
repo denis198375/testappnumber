@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Text Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_1">Введите число</string>
+    <string name="text_2">Выполнить</string>
+    <string name="text_4">Рандомное Число</string>
+    <string name="text_5">История</string>
+    <string name="еуче_10">Ошибка!</string>
+</resources>
